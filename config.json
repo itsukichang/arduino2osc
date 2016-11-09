@@ -1,0 +1,10 @@
+{
+  "arduino": {
+    "port":"/dev/cu.usbmodem1421",
+    "baud":9600
+  },
+  "sendList": {
+    "pc0":"127.0.0.1",
+    "pc1":"192.168.1.1"
+  }
+}
